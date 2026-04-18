@@ -31,7 +31,7 @@ passive - auto rejoin last lobby (upon leaving), ctrl +a, c, v allowed (always o
 config - just fixed it up the way i like it
 
 
-# ⚠️ Disclaimer
+# Disclaimer...
 
 This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC.
 
