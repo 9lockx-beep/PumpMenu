@@ -21,179 +21,37 @@
 </p>
 
 <p align="center">
-  <b>An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.</b>
+  <b>PUMP MENU GREAT.</b>
 </p>
 
 <!-- omit in toc -->
-# 😎 Table Of Contents
 
-- [🎁 Releases](#-releases)
-- [⬇️ Installation](#️-installation)
-  - [🪟 Windows](#-windows)
-  - [🐧 Linux](#-linux)
-- [📋 Features](#-features)
-- [❓ FAQ](#-faq)
-- [⚠️ Disclaimer](#️-disclaimer)
+# THIS IS ONLY SUPPORTED IN STEAM!!!
 
-# 🎁 Releases
+# Releases
 
 | Mod Version| Among Us - Version | Link |
 |----------|-------------|-----------------|
-| v3.0.0 | 17.2.1 ( 2026.2.24 ) | [Download](https://github.com/scp222thj/MalumMenu/releases/tag/v3.0.0) |
-| v2.4.2 | 2024.9.4 | [Download](https://github.com/scp222thj/MalumMenu/releases/tag/v2.4.2) |
-| v2.4.1 | 2024.8.13 | [Download](https://github.com/scp222thj/MalumMenu/releases/tag/v2.4.1) |
-| v2.4.0 | 2024.6.18 | [Download](https://github.com/scp222thj/MalumMenu/releases/tag/v2.4.0) |
-| v2.3.1 | 2024.6.18 | [Download](https://github.com/scp222thj/MalumMenu/releases/tag/v2.3.1) |
-| v2.3.0 | 2024.6.4 | [Download](https://github.com/scp222thj/MalumMenu/releases/tag/v2.3.0) |
-| v2.2.0 | 2024.3.5 | [Download](https://github.com/scp222thj/MalumMenu/releases/tag/v2.2.0) |
-| v2.1.0 | 2023.11.28 | [Download](https://github.com/scp222thj/MalumMenu/releases/tag/v2.1.0) |
-| v2.0.0 | 2023.11.28 | [Download](https://github.com/scp222thj/MalumMenu/releases/tag/v2.0.0) |
-| v1.2.1 | 2023.11.28 | [Download](https://github.com/scp222thj/MalumMenu/releases/tag/v1.2.1) |
-| v1.2.0 | 2023.11.28 | [Download](https://github.com/scp222thj/MalumMenu/releases/tag/v1.2.0) |
-| v1.1.2 | 2023.7.12 & 2023.7.11 | [Download](https://github.com/scp222thj/MalumMenu/releases/tag/v1.1.2) |
-| v1.1.1 | 2023.7.12 & 2023.7.11 | [Download](https://github.com/scp222thj/MalumMenu/releases/tag/v1.1.1) |
-| v1.1.0 | 2023.7.12 & 2023.7.11 | [Download](https://github.com/scp222thj/MalumMenu/releases/tag/v1.1.0) |
-| v1.0.0 | 2023.7.12 & 2023.7.11 | [Download](https://github.com/scp222thj/MalumMenu/releases/tag/v1.0.0) |
+| v3.0.0 | 17.2.1 ( 2026.4.18 ) | [Download](https://github.com/9lockx-beep/MalumMenu/releases/tag/3.0.0) |
 
-# ⬇️ Installation
+# Installation on Steam
+1. Download the pump menu dll from [here](https://github.com/9lockx-beep/MalumMenu/releases/tag/3.0.0).
 
-## 🪟 Windows
+2. Insert the DLL into Among us-Bepinex-plugins.
 
-1. Download the latest **MalumMenu zip pack** from [here](https://github.com/scp222thj/MalumMenu/releases/latest).
-    - **For Steam or Itch.io:** Download `MalumMenu-VERSION-Steam-Itch.zip`.
-    - **For Microsoft Store, Epic Games Store, or Xbox App:** Download `MalumMenu-VERSION-MicrosoftStore-EpicGames-XboxApp.zip`.
+3. Launch among us, wait a bit
 
-2. Open the zip file you have just downloaded and copy all its contents.
+5. press **DELETE** to open the menu :)
 
-3. Paste these files directly into your Among Us game folder:
-    - **Steam:** Right-click Among Us in your Library → Click `Manage` → Click `Browse local files`.
-    - **Epic Launcher:** Right-click Among Us in your Library → Click `Manage` → Click the folder icon in the `Installation` box.
-    - **Itch.io:** Open the Itch.io app → Right-click Among Us in your Library → Click `Manage` → Click `Open folder in Explorer`.
-   - **Microsoft Store:** Open the folder where Windows apps are installed (typically `C:\Program Files\WindowsApps\`) by following the tutorial [here](https://youtu.be/qCeoEIy_vrw) → In File Explorer, use the search bar to search for `Among Us.exe` → Right-click the `Among Us.exe` result → Select `Open file location`.
-    - **Xbox App:** Right-click Among Us in your Library → Click `Manage` → Open the `FILES` tab → Click `BROWSE...` → Open the `Among Us` folder → Open the `Content` folder.
 
-4. Launch Among Us as you normally would. You should see a console window appear, installing the mod's requirements.
+# added features
+player - auto randomize on main menu, randomize name, change display name (a bit glitchy), change size (client sided)
+esp - see host, dead body alert (alerts the player when a colour dies and their location), dead bodies on minimap (appear with an X), impostors with red visor on minimap
+roles - phantom (no ability runout)
+host only - randomize identity (in lobby/game), assign roles before start, change colour of players in ur lobby, change amount of imps, force end game
+passive - auto rejoin last lobby (upon leaving), ctrl +a, c, v allowed (always on), hide pump menu branding to be legit ig (stealth mode)
+config - just fixed it up the way i like it
 
-5. Wait for the console window to finish the installation.
-
-6. After installation, Among Us will automatically open with MalumMenu successfully installed.
-    - By default, you can toggle the cheat GUI on by pressing **DELETE** on your keyboard.
-
-7. If the installation doesn't work, check out our [FAQ](#-faq).
-
-## 🐧 Linux
-
-1. Run Among Us under **Proton (or Wine)**.
-   - **In Steam:** Right-click Among Us in your Library → Click `Properties` → Click `Compatibility` → Enable `Force the use of a specific Steam Play compatibility tool`.
-
-   - Test different Proton versions if you're having issues launching the game.
-
-2. Set up **BepInEx** (the framework MalumMenu is built upon).
-   - Follow the official Proton / Wine setup guide found [here](https://docs.bepinex.dev/articles/advanced/proton_wine.html).
-   - If you are using Proton with Steam, specify the DLL override:
-     - **In Steam:** Right-click Among Us in your Library → Click `Properties` → Click `General` → Click `Launch Options`.
-     - Add this to your launch options:
-
-       ```
-       WINEDLLOVERRIDES="winhttp.dll=n,b" %command%
-       ```
-
-   - After that, continue with the Windows installation steps found [here](#-windows).
-
-3. Fix crashes or errors (like `Unable to execute IL2CPP chainloader`).
-   - **In Steam:** Right-click Among Us in your Library → Click `Properties` → Click `General` → Click `Launch Options`.
-   - Set your launch options to:
-
-     ```
-     PROTON_NO_ESYNC=1 PROTON_USE_WINED3D=1 WINEDLLOVERRIDES="winhttp.dll=n,b" %command%
-     ```
-
-# 📋 Features
-
-<img alt="image" src="https://scp222thj.dev/static/images/malumIngame.png">
-
-- An intuitive GUI with our latest, greatest Among Us cheats
-- See ghosts & reveal the impostors
-- Track every player's position using the minimap
-- Teleport anywhere you want
-- Change your role whenever you please
-- Remove kill cooldown & spam-kill everyone
-- Murder any distant player from across the map
-- Unlock all of the game's cosmetics for FREE
-- No more annoying disconnect penalties
-
-For a complete list of all of MalumMenu's features, click [here](https://github.com/scp222thj/MalumMenu/blob/main/FEATURES.md)
-
-# ❓ FAQ
-
-Click to expand each topic
-
-<details>
-
-<summary><h2>❗ I'm having issues installing MalumMenu</h2></summary>
-
-First of all, make sure you are running the most recent version of Among Us (`17.2.1` / `2026.2.24`) with the most recent version of MalumMenu (`v3.0.0`).
-
-Also, check if your platform is officially supported:
-
-- ✅ Steam
-- ✅ Itch.io
-- ✅ Epic Games Launcher
-- ✅ Microsoft Store
-- ✅ Xbox App
-- ❔ Cracked (rarely works)
-- ❌ iOS App Store & Google Play
-- ❌ PS & Switch & Xbox Console
-
-Now ensure that you have downloaded the correct zip file for your platform:
-- **For Steam or Itch.io:** Download `MalumMenu-VERSION-Steam-Itch.zip`
-- **For Microsoft Store, Epic Games Store, or Xbox App:** Download `MalumMenu-VERSION-MicrosoftStore-EpicGames-XboxApp.zip`
-
-Make sure you followed the installation guide precisely. This is what your `Among Us` folder should look like after a successful installation:
-
-<img src="https://scp222thj.dev/static/images/amongUsFolder.png" alt="drawing" width="550"/>
-
-<br>Some antiviruses might cause issues when installing the mod, so consider temporarily deactivating your antivirus if the game isn't booting after installation.
-
-When installing MalumMenu for the first time, it will take **MUCH** longer than usual for the game to load. This is completely normal and expected behavior, so don't be alarmed if you have to wait a while. You can keep track of the installation progress through this useful BepInEx console window that pops up when you start the game:
-
-<img src="https://scp222thj.dev/static/images/bepinexConsole.png" alt="drawing" width="550"/>
-
-<br>If you are still having issues, feel free to open a new Github issue [here](https://github.com/scp222thj/MalumMenu/issues/new), or you can ask for help in our Discord server: [discord.gg/YYcYf88jAb](https://discord.gg/YYcYf88jAb)
-
-</details>
-
-<details>
-
-<summary><h2>👾 I found a bug OR I would like to suggest a new feature</h2></summary>
-
-To let me know, you can open a new Github issue [here](https://github.com/scp222thj/MalumMenu/issues/new), or you can discuss it on our Discord server: [discord.gg/YYcYf88jAb](https://discord.gg/YYcYf88jAb)
-
-If you want, you can also contribute to the project and implement the change yourself by making a pull request. All contributions are welcome!
-
-</details>
-
-<details>
-
-<summary><h2>👨‍💻 I want to contribute to this project</h2></summary>
-
-To get started, I suggest you first learn about the basics of C# and Unity, since that's what Among Us is written in. There are plenty of tutorials out there to help you with that.
-
-You should also learn about Github forking and pull requests, since you will need to use those to make any contributions to the project. [Here](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) is the official documentation on the topic.
-
-Then, I suggest you learn about Among Us modding in general. In this project, I use BepInEx and Harmony to patch the game, so I suggest you take a look at [this](https://docs.reactor.gg) great guide to learn how to work with those.
-
-Here are some other useful resources:
-
-- The [Reactor](https://reactor.gg/discord) discord server
-    - A great community of Among Us modders where you can ask questions and get help
-    - Here you can also find the most recent decompiled Among Us assemblies (the DLL files in `#resources` channel). I suggest using [dnSpy](https://github.com/dnSpy/dnSpy/releases/latest) to go through these.
-
-- [sus.wiki](https://github.com/roobscoob/among-us-protocol)
-    - Useful resource to learn more about the Among Us network protocol
-    - Keep in mind that it is slightly outdated
-
-</details>
 
 # ⚠️ Disclaimer
 
