@@ -1,4 +1,3 @@
-###features I added
 player - auto randomize on main menu, randomize name, change display name (a bit glitchy), change size (client sided)
 esp - see host, dead body alert (alerts the player when a colour dies and their location), dead bodies on minimap (appear with an X), impostors with red visor on minimap
 roles - phantom (no ability runout)
